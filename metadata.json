@@ -1,0 +1,6 @@
+{
+  "name": "夜市神射手 - 台灣懷舊夜市射擊遊戲",
+  "description": "跨平台懷舊夜市射擊遊戲：機械滑軌窗與隨機百葉窗動態標靶、四大夜市武器、三大遊戲模式、戰利品兌換與 Google Sheets 排行榜。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
